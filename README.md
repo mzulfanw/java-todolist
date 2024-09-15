@@ -5,5 +5,5 @@ Running this terminal
 ```
 docker build -t java-todolist .
 
-docker run -it java-todlist
+docker run -it java-todolist
 ```
